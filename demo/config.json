@@ -1,0 +1,6 @@
+{
+    "cid_list": ["3","4"],
+    "data_path": "date",
+    "yuming_file": "domain.txt",
+    "post_route": "/post.php"
+}
